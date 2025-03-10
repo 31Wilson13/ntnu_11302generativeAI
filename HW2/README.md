@@ -6,6 +6,6 @@
 - 實際架構嘗試歷程
   ![圖片](https://github.com/31Wilson13/ntnu_11302generativeAI/blob/main/HW2/process.png)
 - 模型數據表現
-  ![圖片](https://github.com/31Wilson13/ntnu_11302generativeAI/blob/main/HW1/test1.png)
+  ![圖片](https://github.com/31Wilson13/ntnu_11302generativeAI/blob/main/HW2/test1.png)
 - 實際手寫展示
-  ![圖片](https://github.com/31Wilson13/ntnu_11302generativeAI/blob/main/HW1/test2.png)
+  ![圖片](https://github.com/31Wilson13/ntnu_11302generativeAI/blob/main/HW2/test2.png)
