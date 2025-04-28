@@ -30,7 +30,7 @@
 - 角色設定與說明文字
   ![圖片](https://github.com/31Wilson13/ntnu_11302generativeAI/blob/main/HW8_week9/setting.jpg)
 - Gradio對話結果範例
-  - 第一次測試（過於冗長版本） 
+  - 第一次測試（過於冗長版本），漫才的節奏性和簡潔性被破壞 
   ![圖片](https://github.com/31Wilson13/ntnu_11302generativeAI/blob/main/HW8_week9/example1.png)
   - 第二次測試（修正後簡潔版本）
   ![圖片](https://github.com/31Wilson13/ntnu_11302generativeAI/blob/main/HW8_week9/example2.png)
