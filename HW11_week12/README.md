@@ -57,6 +57,6 @@
   - Styles：Fooocus Enhance、Ads Retail
  
   -------------------------
-  ### Fooocus使用心得
+  ### Fooocus使用心得與創作流程
   - 使用Image Prompt時，若使用過於複雜或詳細的Text Prompt，在我的嘗試中，新生成的圖像會和Image Prompt中的角色差距較大。因此在製作周邊商品時，採用的Text Prompt則選擇使用簡潔風格
   - 使用Image Prompt時，嘗試產生周邊商品圖片時，在advanced設定中，若將圖片的weight設定過高，生成的圖片永遠只會和Image Prompt相似，無法生成其他內容。因此後續選擇統一將weight設定大約0.6，在根據角色造型設計商品的同時，也讓模型帶有一些自由發揮的空間，如此一來才成功繪製出貼紙、短袖、餅乾包裝的內容
